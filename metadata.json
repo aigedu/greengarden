@@ -1,0 +1,8 @@
+{
+  "name": "GreenGarden – Trợ lý cây xanh thông minh",
+  "description": "Một ứng dụng sử dụng trí tuệ nhân tạo để nhận diện cây qua hình ảnh, phân tích tình trạng sức khỏe của cây, và cung cấp hướng dẫn chăm sóc cá nhân hóa.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
